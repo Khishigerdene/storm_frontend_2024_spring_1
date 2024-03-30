@@ -1,0 +1,86 @@
+.a {
+
+    font-weight: bold;
+}
+
+#abc {
+    font-style: italic;
+}
+
+.aa {
+    text-transform: uppercase;
+}
+Bvh vseg tomoor
+.ab {
+    text-transform: capitalize;
+}
+Bvh ehnii vseg tomoor
+
+.ad {
+    text-decoration: line-through;
+}
+dunduur zuraas
+.ac {
+    text-decoration: underline;
+}
+dooguur zuraas
+
+.aw {
+    text-decoration: line-through;
+}
+
+.ae {
+    text-decoration: underline;
+
+}
+
+.ar {
+    text-decoration: line-through;
+}
+
+.aer {
+    color: blue;
+
+}
+
+.aer a:hover {
+    color: black;
+}
+
+.aer a:visited {
+    text-decoration: underline;
+    color: yellow;
+}
+.atk { text-transform: capitalize;
+    
+}
+.all {
+    font-style: bold;
+}
+.aaa {
+    text-decoration: line-through;
+}
+.bbb {
+    font-style: italic;
+}
+.ccc {
+    text-decoration: underline;
+}
+.dddd {
+text-decoration: line-through;
+}
+#asdf {
+    background-color: aqua;
+}
+#awds {
+    background-color: aqua;
+    text-transform: lowercase;
+}
+#awds:hover {
+    background-color: blue;
+    text-transform: uppercase;
+    list-style-type: circle;
+    
+
+    
+}

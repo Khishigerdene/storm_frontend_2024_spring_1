@@ -1,0 +1,86 @@
+.one{
+  color: navy;
+}
+.two{
+    color: #fb7d9e;
+}
+.three{color:  rgb(255, 192, 203)}
+.div{
+    background-color: blue;
+    width: 400px;
+    height: 300px;
+  
+}
+.div div {
+    width: 150px;
+    height: 50px;
+    background-color: yellow;   
+    padding-top: 90px;
+    text-align: center ;
+    margin: 0 auto
+    ;
+
+}
+.a p {background-color: orange;
+    color: darkblue;
+ 
+}
+.b p {
+    background-color: darkgray;
+    color: red;
+    
+}
+.four {
+    color: springgreen;
+}
+.five {
+    color: blue;
+}
+.six {
+    color: brown;
+}
+.seven {
+    color: yellow;
+}
+.sven {
+    color: red;
+}
+.svn {
+    color: aqua;
+}
+.sn {
+    background-color: red;
+}
+.s {
+    background-color: #290;
+}
+.M {
+    height: 500px;
+    width: 1000px;
+    background-color: rgb(47, 127, 127);
+}
+.g {
+    border-radius: 80%;
+    background-color: burlywood;
+    height: 100px; width: 100px;
+    margin-left: 60px;
+}
+.j {
+    border-radius: 0%;
+    background-color: wheat;
+    height: 150px; width: 150px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.k div {
+    border-radius: 0cap;
+    background-color: rgb(82, 68, 49);
+    color: purple ;
+    height: 100px;
+    width: 800px;
+    margin-left: 70px;
+    margin-top: 40px;
+
+    
+    
+}
