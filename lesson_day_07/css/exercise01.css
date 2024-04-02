@@ -1,0 +1,51 @@
+main {
+    color: rgba(30, 41, 59, 1);
+}
+
+.container {
+    max-width: 48rem;
+    width: auto;
+    margin-top: 2 rem;
+    margin-bottom: 2 rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    border-width: 10px;
+    border-color: aqua;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    text-align: center;
+    padding: 0.5rem;
+
+}
+
+.report {
+    margin: 1rem;
+    padding: 1.5rem;
+    height: 16rem;
+    text-align: center;
+    background-color: rgba(153, 256, 228, 1);
+    border-radius: 1rem;
+    line-height: 1.75rem;
+    justify-content: space-between;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.report>span:nth-child(1) {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+.report>span:nth-child(2) {
+    font-weight: 700;
+    font-size: 2.25rem;
+    line-height: 9.5rem;
+
+}

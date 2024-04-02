@@ -1,0 +1,99 @@
+main {
+    width: 80vw;
+    height: 100vh;
+    background-color: rgb(65, 177, 177);
+    text-align: center;
+    margin: 0 auto;
+}
+.container {
+    width: 350px;
+    height: 250px;
+    background-color: antiquewhite;
+    font-size: 30px;
+    margin: 0 auto;
+    display: flex;
+    /* center element */
+    /* justify-content: center; */
+    justify-content: space-evenly;
+}
+.container .item {
+    margin-left: 10px;
+}
+.wrap-container {
+    width: 270px;
+    height: 270px;
+    background-color: bisque;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrap-container img {
+    width: 8rem;
+    height: 8rem;
+    object-fit: cover;
+    border-radius: 9999px;
+    object-position: top;
+}
+section{
+    width: 80vw;
+    height: 100vh;
+    background-color: rgb(65, 177, 177);
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+section .svg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+section span {
+    display: inline-block;
+    padding: 0.75rem;
+    background-color: rgba(219, 39, 119, 1);
+    color: rgb(255, 255, 1);
+    border-radius: 0.25rem;
+}
+.icon text {
+    font-size:  1.125rem;
+    line-height: 1.75rem;
+    border-width: 1px;
+    border-color: rgba(156, 163, 175, 1);
+    padding-left:  0.75rem ;
+    padding-right: 0.75rem;
+}
+section .icon {
+    display: inline-block;
+    padding: 0.75rem;
+    background-color: rgb (219, 39, 119, 1);
+    color: rgb(255, 255, 255, 1);
+    border-radius: 0.25rem;
+}
+section div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* flex-direction: column-reverse; */
+}
+.stretch {
+    display: flex;
+    align-items: stretch;
+}
+.center {
+    display: flex;
+    align-items: center;
+}
+.start {
+    display: flex;
+    align-items: start;
+}
+
+.end {
+    display: flex;
+    align-items: end;
+
+}
+
+.baseline {
+    display: flex;
+    align-items: baseline;
+}

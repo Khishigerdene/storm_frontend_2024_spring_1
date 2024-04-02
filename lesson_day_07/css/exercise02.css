@@ -1,0 +1,57 @@
+body {
+    min-width: 24rem;
+    font-size: 0.9rem;
+    color: rgba (30,41 , 59, 1);
+}
+
+.container {
+    max-width: 36rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.75rem;
+    border-width: 1px;
+    border-color: rgba (226, 232, 240, 1);
+    display: flex;
+    border-style: solid;
+}
+.container > img {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 9999px;
+    margin-right: 0.75rem;
+}
+a {
+    color: rgba (100, 116, 139, 1);
+}
+a > strong {
+color: rgba (30, 41, 59, 1);
+}
+.options {
+    height: 1rem;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.actions {
+    max-width: 28rem;
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.actions img {
+    height: 1.1rem;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+    flex-direction: row;
+}
+.actions span {
+    font-size: 0.8rem;
+    color: rgba (71, 85, 105, 1)
+}
+.tweet-info {
+    display: flex;
+    justify-content: space-between;
+}
